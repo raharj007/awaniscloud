@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/light/CloudComputing/awaniscloud/praktikum1/soal1/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/light/CloudComputing/awaniscloud/praktikum1/soal1","disabled":false,"__vagrantfile":true}}}
